@@ -9,6 +9,8 @@ Citation to the original version of this data article:
 
 Nitsch, F. J., Sellitto, M., & Kalenscher, T. (2021). Trier social stress test and food-choice: Behavioral, self-report & hormonal data. Data in brief (**Example 1**), *37*, 107245. https://doi.org/10.1016/j.dib.2021.107245 (**Example 2**)
 
+Making a trivial change
+
 **Abstract**
 
 A sample of 144 participants underwent the Trier Social Stress Test (TSST), a psychosocial stress manipulation involving a mock interview and a mental arithmetic task, or a matched control procedure. Physiological stress was estimated via a collection of 7 saliva samples over the course of the experiment analysed for cortisol and alpha-amylase, as well as via the mean heart-rate measured before and during the experimental manipulation. Subjective stress was assessed via the Positive and Negative Affect Scale as well as four Visual Analogue Scales at 6 points over the time course of the experiment.
